@@ -5,7 +5,7 @@
 - apt install certbot (certbot aka letsencrypt)
 - apt install python3-certbot-nginx (plugin)
 
-    certbot --nginx renew
+```certbot --nginx renew```
     
 ## docker
 
