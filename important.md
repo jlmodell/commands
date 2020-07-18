@@ -23,3 +23,7 @@
 ## golang
 
 - TODO
+
+## redis
+
+``` CONFIG SET requirepass "mypass" ```
