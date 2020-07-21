@@ -27,3 +27,10 @@
 ## redis
 
 ``` CONFIG SET requirepass "mypass" ```
+
+## nginx
+
+```
+   sudo fuser -k 80/tcp
+   service nginx restart
+```
